@@ -20,7 +20,7 @@ function IntroCarousel() {
     return (
       <Carousel>
           <Paper className={classes.paper}>
-            <ConcatCards />
+            <ConcatCards></ConcatCards>
           </Paper>
           <Paper className={classes.paper}>
             <ConcatCards />
